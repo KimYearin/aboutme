@@ -16,6 +16,7 @@
 - 서블릿페이지하나를 생성해서, url을 입력했을 때 시간데이터가 화면에 노출돼야 합니다.
 
 *index page*
+메인 페이지
 ***
 
 <img src = "https://user-images.githubusercontent.com/51191647/80452312-f3e5a280-8960-11ea-90c3-c545c3f365b2.JPG">
