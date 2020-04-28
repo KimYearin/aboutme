@@ -1,0 +1,91 @@
+@charset "UTF-8";
+body{/*배경초록색*/
+  background-color: rgb(163,203,174);
+}
+li{
+  list-style: none; /*표시없애기*/
+}
+
+header, footer, section{ /*블록 흰색*/
+  background-color: rgb(255,255,255);
+}
+
+body > header > nav > ul li{ /*네비게이션*/
+  background-color: rgb(112,146,190);
+  text-align: center;
+  width : 120px;
+  height : 30px;
+  padding : 10px 3px 3px 3px;
+  float : left;
+  margin-right: 10px;
+  box-shadow: 3px 3px grey;
+  color : rgb(55,20,218);
+}
+
+a{ /*하이퍼링크 속성제거*/
+  text-decoration: none;
+  color : rgb(55,20,218);
+}
+
+body > header > nav > ul li:nth-child(1){ /*오른쪽으로 밀기*/
+  margin-left: 50%;
+}
+
+body > header{ /*float해도 같이 크기 늘어나도록*/
+  overflow : auto;
+  padding-bottom: 20px;
+  margin-bottom: 16px;
+}
+body > footer p{ /*footer*/
+  text-align: center;
+  padding: 20px;
+}
+
+body > footer{
+  margin-bottom: 50px;
+}
+
+img{ /*이미지 테두리*/
+  border : 5px solid grey;
+}
+
+.photo1, .photo2{
+  overflow : auto;
+  padding-bottom: 50px;
+}
+
+.photo1 > img {
+  float: left;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.photo1 > p{
+  margin-top: 50px;
+  padding-left: 400px;
+  width : 400px;
+  line-height: 1.9em;
+}
+
+.photo1{
+  border-bottom: 1px solid grey;
+}
+
+.photo2 > img {
+  float: left;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.photo2 > p{
+  margin-top: 50px;
+  padding-left: 400px;
+  width : 400px;
+  line-height: 1.9em;
+
+}
+ body > section >div> img{ /*사진크기*/
+   width: 300px;
+   height: 500px;
+ }
+
