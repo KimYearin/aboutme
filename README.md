@@ -19,7 +19,7 @@
 
 *index page*   
 메인 페이지
-
+***
 
 <img src = "https://user-images.githubusercontent.com/51191647/80452312-f3e5a280-8960-11ea-90c3-c545c3f365b2.JPG">
 
@@ -27,7 +27,7 @@
 
 *aboutme page*    
 소개글 페이지
-
+***
 
 <img src = "https://user-images.githubusercontent.com/51191647/80452263-d31d4d00-8960-11ea-9957-5b72d3cc7a72.JPG">
 
@@ -35,7 +35,7 @@
 
 *photo page*    
 이미지 페이지
-
+***
 
 <img src = "https://user-images.githubusercontent.com/51191647/80452315-f516cf80-8960-11ea-8497-d50d5dfc0577.JPG">
 
@@ -43,7 +43,7 @@
 
 *TodayServlet page*   
 현재시간 표시 페이지
-
+***
 <img src = "https://user-images.githubusercontent.com/51191647/80452316-f647fc80-8960-11ea-8789-1e2e29d84fd1.JPG">
 
 
