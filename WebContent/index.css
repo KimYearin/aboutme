@@ -40,6 +40,7 @@ body > header{ /*float해도 같이 크기 늘어나도록*/
 body > section{ /*가운데 정렬*/
   text-align: center;
   overflow: auto;
+
 }
 
 body > section h2{ /*웹프론트앤드 개발자 김예린*/
@@ -56,6 +57,7 @@ body > section > ul li{ /*자기소개 내사진*/
   padding : 35px 3px 3px 3px;
   margin-right: 10px;
   margin-top: 10px;
+  margin-bottom: 45px;
 }
 
 body > section > ul li:nth-child(1){ /*자기개 밀기*/
