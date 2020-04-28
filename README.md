@@ -17,7 +17,7 @@
    
 <br>
 
-*index page*   
+**index page*   
 메인 페이지
 
 
@@ -25,7 +25,7 @@
 
 <br>
 
-*aboutme page*    
+**aboutme page*    
 소개글 페이지
 
 
@@ -33,7 +33,7 @@
 
 <br>
 
-*photo page*    
+**photo page*    
 이미지 페이지
 
 
@@ -41,7 +41,7 @@
 
 <br>
 
-*TodayServlet page*   
+**TodayServlet page*   
 현재시간 표시 페이지
 
 <img src = "https://user-images.githubusercontent.com/51191647/80452316-f647fc80-8960-11ea-8789-1e2e29d84fd1.JPG">
