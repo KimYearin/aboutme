@@ -14,9 +14,37 @@
 
 - 톰캣서버를 통해서 자기소개 페이지가 동작되야 합니다. (ex http://localhost:8080/aboutme/index.html 에서 노출)
 - 서블릿페이지하나를 생성해서, url을 입력했을 때 시간데이터가 화면에 노출돼야 합니다.
+   
+<br>
 
-*index page*
+*index page*   
 메인 페이지
-***
+
 
 <img src = "https://user-images.githubusercontent.com/51191647/80452312-f3e5a280-8960-11ea-90c3-c545c3f365b2.JPG">
+
+<br>
+
+*aboutme page*    
+소개글 페이지
+
+
+<img src = "https://user-images.githubusercontent.com/51191647/80452263-d31d4d00-8960-11ea-9957-5b72d3cc7a72.JPG">
+
+<br>
+
+*photo page*    
+이미지 페이지
+
+
+<img src = "https://user-images.githubusercontent.com/51191647/80452315-f516cf80-8960-11ea-8497-d50d5dfc0577.JPG">
+
+<br>
+
+*TodayServlet page*   
+현재시간 표시 페이지
+
+<img src = "https://user-images.githubusercontent.com/51191647/80452316-f647fc80-8960-11ea-8789-1e2e29d84fd1.JPG">
+
+
+
